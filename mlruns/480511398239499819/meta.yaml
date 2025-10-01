@@ -1,0 +1,6 @@
+artifact_location: file:///opt/mlruns/480511398239499819
+creation_time: 1759270861056
+experiment_id: '480511398239499819'
+last_update_time: 1759270861056
+lifecycle_stage: active
+name: churn_training

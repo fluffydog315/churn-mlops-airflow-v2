@@ -1,0 +1,14 @@
+artifact_uri: file:///opt/mlruns/480511398239499819/e5a014f795a6443f8038aeff527313c5/artifacts
+end_time: 1759290304961
+entry_point_name: ''
+experiment_id: '480511398239499819'
+lifecycle_stage: active
+run_id: e5a014f795a6443f8038aeff527313c5
+run_name: clean-mole-25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759290296226
+status: 3
+tags: []
+user_id: airflow

@@ -1,0 +1,4 @@
+docker compose exec airflow-webserver airflow db init
+docker compose exec airflow-webserver airflow users create \
+  --username admin --firstname Olivia --lastname Chen \
+  --role Admin --email lightlycat@gmail.com --password admin
